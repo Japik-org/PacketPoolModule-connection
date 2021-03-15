@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: utils/datagram.jar
+  lib/annotations-13.0.jar
