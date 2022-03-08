@@ -1,3 +1,7 @@
 Manifest-Version: 1.0
+
+Name: Module-Shared
+Subtype: PacketPool
+Version: 1.1.2
 Base-Package: com.pro100kryto.server
-Connect-Utils: datagram.jar
+Lib-Shared-Jar: p1k-server-datagram-1.2.1.jar
